@@ -17,8 +17,8 @@ git add . && git commit -m "add cmd" && git push
 
 | №  | Пакет                     | Строка для установки   |
 | ---|:-------------------------:| ----------------------:|
-| 1. | Bash                      |  sudo apt install bash |
-| 2. | Поддержка СИ              |  sudo apt install gcc  |
+| 1. | Bash                      | sudo apt install bash  |
+| 2. | Поддержка СИ              | sudo apt install gcc   |
 
 ## Как оно работает? 
 
