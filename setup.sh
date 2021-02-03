@@ -30,4 +30,11 @@ else
     echo "}" >>$file_name
 fi
 
+if [ -e .gitignore ]; then
+    echo "[YL&S co] .gitignore ALREADY exist"
+else
+    touch -c ".gitignore"
+    echo "/output" >>".gitignore"
+fi
+
 echo ""
