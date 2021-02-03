@@ -10,6 +10,7 @@ echo ""
 branch_name="working-lab$1"
 file_name="task${1}_1.c"
 
+git checkout main
 git checkout -b $branch_name
 echo "[YL&S co] Switch branch to $branch_name"
 
