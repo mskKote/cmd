@@ -7,9 +7,11 @@ Yohan Loshop & Sons Co представляет продукт, перевора
 ## Установка
 Клонируйте его себе на основную ветку
 
-  git checkout main
-  git clone https://github.com/mskKote/cmd
-  git add . && git commit -m "add cmd" && git push
+```
+git checkout main
+git clone https://github.com/mskKote/cmd
+git add . && git commit -m "add cmd" && git push
+```
 
 ## Какие пакеты для этого нужны?
 
