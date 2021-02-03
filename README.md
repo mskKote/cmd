@@ -28,3 +28,4 @@ git add . && git commit -m "add cmd" && git push
 
 3. ```bash cmd/done.sh <название_коммита>``` коммит все изменения
 
+Если это первый коммит на ветке пишем: ```git push --set-upstream origin working-lab4```
