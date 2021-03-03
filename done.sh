@@ -9,5 +9,5 @@ if [ -n "$1" ]; then
 fi
 
 git add .
-git commit $name
+git commit -m "$name"
 git push
